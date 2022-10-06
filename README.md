@@ -1,3 +1,10 @@
+<style>
+  .devicon-devicon-plain {
+  max-width: 2em;
+}
+  </style>
+
+
 # Hello there! 👋
 
 <div>I'm Petter Karlsson</div>
@@ -45,7 +52,7 @@ Frontend/backend web developer, webmaster, web designer, layouter, programming t
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" title="eslint" alt="eslint" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="heroku" alt="heroku" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" class='devicon-devicon-plain' title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp;
   
 #
   
