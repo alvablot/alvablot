@@ -47,7 +47,7 @@ Frontend/backend web developer, webmaster, web designer, layouter, programming t
       <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="heroku" alt="heroku" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp;
   
-  #
+ ### :hammer_and_wrench: Languages and Tools :
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original-wordmark.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original-wordmark.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
