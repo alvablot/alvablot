@@ -1,8 +1,3 @@
-<style>
-  .devicon-devicon-plain {
-  max-width: 2em;
-}
-  </style>
 
 
 # Hello there! 👋
