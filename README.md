@@ -8,3 +8,7 @@ At the moment, all my focus is on becoming as good as possible at web developmen
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400"/>
 </div>
+
+
+logo={your social network icon name}
+logoColor={color of the icon}
