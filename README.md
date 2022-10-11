@@ -53,3 +53,4 @@ Frontend/backend web developer, webmaster, web designer, layouter, programming t
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original-wordmark.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original-wordmark.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/indesign/indesign-original-wordmark.svg" title="indesign" alt="indesign" width="40" height="40"/>&nbsp;
