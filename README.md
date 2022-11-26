@@ -9,7 +9,7 @@
   I also have solid experience from various industries and professional roles.
 Part of what I've been up to in recent years is
 <p>
-Frontend/backend web developer, webmaster, web designer, layouter, programming teacher, music teacher, musician/producer, sound engineer, sound mixer, directed and edited music videos, operations manager for the reception and conference department at Fryshuset in Stockholm.
+Frontend/backend web developer, webmaster, web designer, layouter, programming teacher, music teacher, musician/producer, sound engineer, sound mixer, directed and edited music videos, digital and web service and conference department at Fryshuset in Stockholm.
   </p>
  </div>
 <div id="header" align="center">
