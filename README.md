@@ -7,9 +7,8 @@
 <div>
   I am in my second year at <a href="https://cmeducations.se/" target="_blank">Changemaker Education</a> as <a href="https://cmeducations.se/utbildningar/program/frontend-app-developer" target="_blank">Frontend App Developer</a>.<br>
   I also have solid experience from various industries and professional roles.
-Part of what I've been up to in recent years is
 <p>
-Frontend/backend web developer, webmaster, web designer, layouter, programming teacher, music teacher, musician/producer, sound engineer, sound mixer, directed and edited music videos, digital and web service manager and conference department at Fryshuset in Stockholm.
+  I am currently doing my internship at <a href="https://github.com/ingager">Ingager Stockholm.</a>
   </p>
  </div>
 <div id="header" align="center">
