@@ -4,6 +4,8 @@
 
 <div>I'm Petter Karlsson</div>
 
+#
+
 <div>
   I am in my second year at <a href="https://cmeducations.se/" target="_blank">Changemaker Education</a> as <a href="https://cmeducations.se/utbildningar/program/frontend-app-developer" target="_blank">Frontend App Developer</a>.<br>
   I also have solid experience from various industries and professional roles.
