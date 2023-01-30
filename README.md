@@ -42,15 +42,16 @@
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgress/postgress-original-wordmark.svg" title="postgress"  alt="postgress" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/indesign/indesign-original-wordmark.svg" title="indesign" alt="indesign" width="40" height="40"/>&nbsp;
-
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>
+  &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" title="eslint" alt="eslint" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="heroku" alt="heroku" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>
+ 
   
 #
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original-wordmark.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original-wordmark.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/indesign/indesign-original-wordmark.svg" title="indesign" alt="indesign" width="40" height="40"/>&nbsp;
