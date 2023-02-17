@@ -2,15 +2,15 @@
 
 # Hello there! 👋
 
-<div>I'm Petter Karlsson</div>
+<div>I'm Petter Karlsson< - a passionate coder and web developer/div>
 
 #
 
 <div>
-  I am in my second year at <a href="https://cmeducations.se/" target="_blank">Changemaker Education</a> as <a href="https://cmeducations.se/utbildningar/program/frontend-app-developer" target="_blank">Frontend App Developer</a>.<br>
+  I have been producing websites since the late 90's<br>
   I also have solid experience from various industries and professional roles.
 <p>
-  I am currently doing my internship at <a href="https://ingager.com/">Ingager Stockholm.</a>
+  In the spring if 2023 im an intern at <a href="https://ingager.com/">Ingager Stockholm</a> as a frontend developer.
   </p>
  </div>
 <div id="header" align="center">
