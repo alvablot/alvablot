@@ -61,3 +61,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
         <img src="https://sv.wizcase.com/wp-content/uploads/2020/12/IndESIGN-LOGO.png" title="indesign" alt="indesign" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/PT2019.png" title="Pro tools" alt="Pro tools" width="40" height="40"/>&nbsp;
+  <img src="https://www3.technologyevaluation.com/getattachment/60cf04e5-a585-5f22-a39a-575ff41751e0/logo.png?source=tw2&ext=.png" title="Premier" alt="Premier" width="40" height="40"/>&nbsp;
+  <img src="https://preview.redd.it/x5gdtjppdcw21.png?width=1024&format=png&auto=webp&s=8d9fa6a9ce8c92c9ae9e807b064a803e28a11fb4" title="Logic Pro" alt="Logic Pro" width="40" height="40"/>&nbsp;
