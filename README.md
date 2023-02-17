@@ -2,7 +2,7 @@
 
 # Hello there! 👋
 
-<div>I'm Petter Karlsson< - a passionate coder and web developer/div>
+<div>I'm Petter Karlsson - a passionate coder and web developer/div>
 
 #
 
