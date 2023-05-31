@@ -17,9 +17,9 @@ databases such as MongoDB, Postgres, MySQL, and SQLite.
   </p>
   <p>
 In addition to my studies, I have had experience as a freelance web developer in the early 2000s, where I
-successfully completed several web development projects for clients. I have also worked as a programming
+successfully completed several web development projects for various clients. I have also worked as a programming
 teacher, sharing my knowledge and helping others develop their skills in web development. These
-experiences have further strengthened my technical abilities and communication skills.
+experiences have further strengthened my technical abilities and communication skills.<br>
 I am confident in my ability to work independently as well as collaboratively in dynamic and challenging
 settings. I am familiar with handling various social situations and enjoy problem-solving and learning new
 technologies. My determination to excel and my commitment to personal growth make me an ideal
