@@ -8,7 +8,7 @@
 <p>
   
   
- My name is Petter Karlsson<br />
+ My name is Petter Karlsson<br /><br />
 During my profession I have gained comprehensive knowledge and hands-on experience in web development technologies and
 frameworks such as HTML, CSS, JavaScript, React, Vue, TypeScript, and PHP. I am proficient in version
 control systems like Git and have worked with various backend technologies like Express, NodeJS, and
@@ -22,7 +22,8 @@ experiences have further strengthened my technical abilities and communication s
 I am confident in my ability to work independently as well as collaboratively in dynamic and challenging
 settings. I am familiar with handling various social situations and enjoy problem-solving and learning new
 technologies. My determination to excel and my commitment to personal growth make me an ideal
-candidate for contributing to every project.
+candidate for contributing to every project.<br /><br />
+I have studied web design at Jensen Education in Stockholm and Frontend / App devloper at Changemaker Educations.
   
   
   </p>
