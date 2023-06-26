@@ -8,7 +8,7 @@
 <p>
   
   
- My name is Petter Karlsson!
+ My name is Petter Karlsson<br />
 During my profession I have gained comprehensive knowledge and hands-on experience in web development technologies and
 frameworks such as HTML, CSS, JavaScript, React, Vue, TypeScript, and PHP. I am proficient in version
 control systems like Git and have worked with various backend technologies like Express, NodeJS, and
