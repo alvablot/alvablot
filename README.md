@@ -8,15 +8,14 @@
 <p>
   
   
- My name is Petter Karlsson, and I am currently studying Frontend App Development at Changemaker
-Education in Stockholm, graduating in the spring semester of 2023. Throughout my studies, I
-have gained comprehensive knowledge and hands-on experience in web development technologies and
+ My name is Petter Karlsson!
+During my profession I have gained comprehensive knowledge and hands-on experience in web development technologies and
 frameworks such as HTML, CSS, JavaScript, React, Vue, TypeScript, and PHP. I am proficient in version
 control systems like Git and have worked with various backend technologies like Express, NodeJS, and
 databases such as MongoDB, Postgres, MySQL, and SQLite.
   </p>
   <p>
-In addition to my studies, I have had experience as a freelance web developer in the early 2000s, where I
+I have experience as a freelance web developer since the early 2000's, where I
 successfully completed several web development projects for various clients. I have also worked as a programming
 teacher, sharing my knowledge and helping others develop their skills in web development. These
 experiences have further strengthened my technical abilities and communication skills.<br>
