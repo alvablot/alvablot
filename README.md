@@ -2,7 +2,6 @@
 
 # Hello there! 👋
 
-#
 
 <div>
  </div>
@@ -10,7 +9,6 @@
   <img src="https://media2.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400"/>
 </div>
 
-#
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/petter-karlsson-1436a0123" target="_blank">
