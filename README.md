@@ -5,28 +5,6 @@
 #
 
 <div>
-<p>
-  
-  
- My name is Petter Karlsson<br /><br />
-During my profession I have gained comprehensive knowledge and hands-on experience in web development technologies and
-frameworks such as HTML, CSS, JavaScript, React, Vue, TypeScript, and PHP. I am proficient in version
-control systems like Git and have worked with various backend technologies like Express, NodeJS, and
-databases such as MongoDB, Postgres, MySQL, and SQLite.
-  </p>
-  <p>
-I have experience as a freelance web developer since the early 2000's, where I
-successfully completed several web development projects for various clients. I have also worked as a programming
-teacher, sharing my knowledge and helping others develop their skills in web development. These
-experiences have further strengthened my technical abilities and communication skills.<br>
-I am confident in my ability to work independently as well as collaboratively in dynamic and challenging
-settings. I am familiar with handling various social situations and enjoy problem-solving and learning new
-technologies. My determination to excel and my commitment to personal growth make me an ideal
-candidate for contributing to every project.<br /><br />
-I have studied web design at Jensen Education in Stockholm and Frontend / App devloper at Changemaker Educations.
-  
-  
-  </p>
  </div>
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400"/>
